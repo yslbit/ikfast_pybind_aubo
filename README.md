@@ -22,6 +22,8 @@ It includes the generated IKFast C++ source, the pybind11 wrapper, and the build
 The actual IKFast C++ code generation is done by OpenRAVE's `ikfast` module.
 This repository documents the `aubo_i3H` workflow in the [Generating `aubo_i3H` with Docker](#generating-aubo_i3h-with-docker) section.
 
+If you want to add a new robot, start from the `yh/add_robot_from_docker` branch.
+
 ## Installation
 
 ### Prerequisites for Windows
