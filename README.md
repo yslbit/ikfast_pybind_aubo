@@ -1,8 +1,8 @@
 
 # ikfast_pybind
 
-[![Github Actions Build Status](https://github.com/yijiangh/ikfast_pybind/workflows/build/badge.svg)](https://github.com/compas-dev/compas_fab/actions)
-[![License](https://img.shields.io/github/license/yijiangh/ikfast_pybind.svg)](https://pypi.python.org/pypi/ikfast_pybind)
+[![Github Actions Build Status](https://github.com/yslbit/ikfast_pybind_aubo/workflows/build/badge.svg)](https://github.com/yslbit/ikfast_pybind_aubo/actions)
+[![License](https://img.shields.io/github/license/yslbit/ikfast_pybind_aubo.svg)](https://github.com/yslbit/ikfast_pybind_aubo/blob/main/LICENSE)
 
 **ikfast_pybind** is a python binding generation library for the analytic kinematics engine [IKfast](http://openrave.org/docs/1.8.2/openravepy/ikfast/). 
 The python bindings are generated via [pybind11](https://github.com/pybind/pybind11) a [CMake](https://cmake.org/)-based build system.
@@ -48,8 +48,8 @@ From [this post](https://github.com/primme/primme/issues/37#issuecomment-6920664
 ### Package installation
 
 ```
-  git clone --recursive https://github.com/yijiangh/ikfast_pybind
-  cd ikfast_pybind
+  git clone --recursive https://github.com/yslbit/ikfast_pybind_aubo.git
+  cd ikfast_pybind_aubo
   pip install .
 ```
 
